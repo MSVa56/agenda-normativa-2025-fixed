@@ -4,3 +4,4 @@ export default function Home() {
   return <AgendaNormativa2025 />;
 }
 Forzar publicación GitHub Pages
+Renombrar index.html para forzar detección
