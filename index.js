@@ -3,3 +3,4 @@ const AgendaNormativa2025 = dynamic(() => import("../components/AgendaNormativa2
 export default function Home() {
   return <AgendaNormativa2025 />;
 }
+Forzar publicación GitHub Pages
